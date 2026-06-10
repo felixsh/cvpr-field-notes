@@ -1,3 +1,8 @@
+---
+layout: page
+title: CVP Report
+---
+
 # CVP Report
 
 A small collection of notes, images, and links.
