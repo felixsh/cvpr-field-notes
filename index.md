@@ -1,11 +1,11 @@
 ---
 layout: page
-title: CVP Report
+title: CVPR Field Notes
 ---
 
-# CVP Report
+# CVPR Field Notes
 
-A small collection of notes, images, and links.
+Personal notes, poster sightings, and mild conference yapping.
 
 ## Overview
 
